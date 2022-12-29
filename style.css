@@ -1,0 +1,17 @@
+body{justify-content: center;
+text-align: center;
+justify-items: center;}
+
+.card
+{border: 1px black solid;
+    /* border-radius :25%; */
+    padding: 10px 20px;
+    margin: 100px auto;
+    margin-top: 0;
+    justify-content:center;
+    text-align: center;
+    width: 573px;
+}
+ul{text-decoration:dotted solid black;}
+.object {text-align: left;}
+img{width: 570px; height: auto;}
