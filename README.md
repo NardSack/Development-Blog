@@ -1,2 +1,2 @@
 # Development-Blog
-bus driver sussy amongsus
+just notes for me ti recap when needed
